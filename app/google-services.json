@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299351983252",
+    "firebase_url": "https://fitlove-asa.firebaseio.com",
+    "project_id": "fitlove-asa",
+    "storage_bucket": "fitlove-asa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299351983252:android:26f6967640539593",
+        "android_client_info": {
+          "package_name": "com.example.sanskriti.fitnesslove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299351983252-ks3dirr1bmj38mdlef5ir3vdt97mja44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIwYQg5eQq2qFdrBKDQseRkUqoh2Y8ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
